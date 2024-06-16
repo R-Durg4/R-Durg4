@@ -1,4 +1,4 @@
-<p align="center">
+<h1 align="center">
   <svg viewBox="0 0 500 60">
     <text x="0" y="45" font-size="45" font-family="Arial, Helvetica, sans-serif" fill="black">
       <textPath href="#text-path" id="text">
@@ -8,7 +8,7 @@
     <path id="text-path" fill="none" d="M0,45 Q250,60 500,45" />
     <animate xlink:href="#text" attributeName="startOffset" from="0%" to="100%" dur="5s" fill="freeze" repeatCount="indefinite" />
   </svg>
-</p>
+</h1>
 Hi there! I'm Durga, a passionate coder from India. I love to explore new technologies and build amazing projects.
 <br><be>
 <h3>🔥 About Me</h3>
