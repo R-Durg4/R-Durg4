@@ -11,7 +11,7 @@
 </p>
 Hi there! I'm Durga, a passionate coder from India. I love to explore new technologies and build amazing projects.
 
-##🔥 About Me
+🔥 About Me
 - 👋 Hi, I’m Durga Ramaseshan ;)
 - 👀 I’m interested in coding and exploring new aspects of AI
 - 📖 I’m currently learning Web Development
